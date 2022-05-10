@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238512077334",
+    "project_id": "cwcfirebasedatabase",
+    "storage_bucket": "cwcfirebasedatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238512077334:android:b43f6fa4d9723978bb9337",
+        "android_client_info": {
+          "package_name": "com.example.car_wash_center"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238512077334-k893nop4pkc059mcul8h92k21jeran8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_T0POWMS_FGvMbMsTkmDEZMPinuKuus4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238512077334-k893nop4pkc059mcul8h92k21jeran8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
